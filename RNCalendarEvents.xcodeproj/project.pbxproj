@@ -226,7 +226,7 @@
 		BEC43C751C723089001221C6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-			CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../../node_modules/react-native/React/**",
 					"$(SRCROOT)/node_modules/react-native/React/**",
